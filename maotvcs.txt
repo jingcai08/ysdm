@@ -291,8 +291,8 @@
 {"key":"畅视影视","name":"畅视影视(优)","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"人人资源","name":"人人资源(优)","type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-#
+{"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+
 
 ],
 
