@@ -138,15 +138,8 @@
   "parses": [
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name":"自动线路","type": 2,"url": "Parallel"},
-{
-		"name": "龙虾",
-		"type": 1,
-		"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
-		"ext": {
-		"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"],
-        "header": {"User-Agent": "Dart/2.14 (dart:io)" }
-      }
-    },
+    {"name":"11","type":1,"url":"http://106.52.218.221:88/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+    {"name":"云you解析","type":1,"url":"https://play.fuqizhishi.com/yunxing/API.php?appkey=yunxing20220710&url="},
     {
          "name": "左岸",
          "type": 1,
@@ -347,6 +340,15 @@
                 "flag": ["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","letv","乐视","bilibili","哔哩哔哩","哔哩"]
             }
         },
+		{
+		"name": "龙虾",
+		"type": 1,
+		"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+		"ext": {
+		"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"],
+        "header": {"User-Agent": "Dart/2.14 (dart:io)" }
+      }
+    },
 		{
             "name": "云解析",
             "type": 0,
